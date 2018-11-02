@@ -1776,3 +1776,10 @@ b, strong { font-weight: bold; }
 		}
 
 	}
+.card-image {
+    max-height: 160px;
+    overflow: hidden;
+}
+.card-image img {
+    min-height: 170px;
+}
